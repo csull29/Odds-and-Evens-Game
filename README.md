@@ -1,2 +1,8 @@
 # Odds-and-Evens-Game
-More of an intermediate coding exercise. Odds and Evens game. Game rules are as follows in README doc.
+RULES OF MORRA - ODDS AND EVENS
+
+Each player chooses either odds or evens at the beginning.
+Both users then choose a number each between 0-10.
+The sum of both players answers are calculated. 
+If the sum of both numbers equals an odd number then TEAM ODDS WINS (and visa versa with TEAM EVENS) and earn a BONUS POINT.
+The first player to reach 6 points wins!
